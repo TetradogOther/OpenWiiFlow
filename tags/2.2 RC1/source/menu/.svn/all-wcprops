@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/302/tags/2.2%20RC1/source/menu
+END
+menu_wbfs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/302/tags/2.2%20RC1/source/menu/menu_wbfs.cpp
+END
+menu_config_screen.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/302/tags/2.2%20RC1/source/menu/menu_config_screen.cpp
+END
+menu_config.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/302/tags/2.2%20RC1/source/menu/menu_config.cpp
+END
+menu_download.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/302/tags/2.2%20RC1/source/menu/menu_download.cpp
+END
+menu_game.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/302/tags/2.2%20RC1/source/menu/menu_game.cpp
+END
+menu_code.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/302/tags/2.2%20RC1/source/menu/menu_code.cpp
+END
+menu_configsnd.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/302/tags/2.2%20RC1/source/menu/menu_configsnd.cpp
+END
+menu_about.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/302/tags/2.2%20RC1/source/menu/menu_about.cpp
+END
+menu_cftheme.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/302/tags/2.2%20RC1/source/menu/menu_cftheme.cpp
+END
+menu.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/302/tags/2.2%20RC1/source/menu/menu.cpp
+END
+menu_wiitdb.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/302/tags/2.2%20RC1/source/menu/menu_wiitdb.cpp
+END
+menu_system.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/302/tags/2.2%20RC1/source/menu/menu_system.cpp
+END
+menu_main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/302/tags/2.2%20RC1/source/menu/menu_main.cpp
+END
+menu_cheat.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/302/tags/2.2%20RC1/source/menu/menu_cheat.cpp
+END
+menu_gameinfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/302/tags/2.2%20RC1/source/menu/menu_gameinfo.cpp
+END
+menu.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/302/tags/2.2%20RC1/source/menu/menu.hpp
+END
+menu_categories.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/302/tags/2.2%20RC1/source/menu/menu_categories.cpp
+END
+menu_config3.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/302/tags/2.2%20RC1/source/menu/menu_config3.cpp
+END
+menu_error.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/302/tags/2.2%20RC1/source/menu/menu_error.cpp
+END
+menu_config4.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/302/tags/2.2%20RC1/source/menu/menu_config4.cpp
+END
+menu_config7.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/302/tags/2.2%20RC1/source/menu/menu_config7.cpp
+END
+menu_config_game.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/302/tags/2.2%20RC1/source/menu/menu_config_game.cpp
+END
+menu_input.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/302/tags/2.2%20RC1/source/menu/menu_input.cpp
+END
+menu_config_adv.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/302/tags/2.2%20RC1/source/menu/menu_config_adv.cpp
+END

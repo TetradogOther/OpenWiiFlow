@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/441/trunk/source/booter
+END
+external_booter.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/441/trunk/source/booter/external_booter.hpp
+END
+Config.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/437/trunk/source/booter/Config.h
+END
+external_booter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/441/trunk/source/booter/external_booter.cpp
+END

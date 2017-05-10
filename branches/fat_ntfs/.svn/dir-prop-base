@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 49
+build
+dbg.bat
+startshell.bat
+trunk.dol
+trunk.elf
+
+END

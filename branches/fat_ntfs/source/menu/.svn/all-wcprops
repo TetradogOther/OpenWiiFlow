@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/43/branches/fat_ntfs/source/menu
+END
+menu.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/43/branches/fat_ntfs/source/menu/menu.cpp
+END
+menu_main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/43/branches/fat_ntfs/source/menu/menu_main.cpp
+END
+menu.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/43/branches/fat_ntfs/source/menu/menu.hpp
+END
+menu_config2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/36/branches/fat_ntfs/source/menu/menu_config2.cpp
+END
+menu_config3.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/36/branches/fat_ntfs/source/menu/menu_config3.cpp
+END
+menu_error.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/36/branches/fat_ntfs/source/menu/menu_error.cpp
+END
+menu_config4.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/36/branches/fat_ntfs/source/menu/menu_config4.cpp
+END
+menu_config5.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/39/branches/fat_ntfs/source/menu/menu_config5.cpp
+END
+menu_config_game.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/36/branches/fat_ntfs/source/menu/menu_config_game.cpp
+END
+menu_config_adv.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/36/branches/fat_ntfs/source/menu/menu_config_adv.cpp
+END
+menu_wbfs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/43/branches/fat_ntfs/source/menu/menu_wbfs.cpp
+END
+menu_config.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/36/branches/fat_ntfs/source/menu/menu_config.cpp
+END
+menu_download.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/43/branches/fat_ntfs/source/menu/menu_download.cpp
+END
+menu_game.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/43/branches/fat_ntfs/source/menu/menu_game.cpp
+END
+menu_configsnd.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/40/branches/fat_ntfs/source/menu/menu_configsnd.cpp
+END
+menu_about.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/41/branches/fat_ntfs/source/menu/menu_about.cpp
+END
+menu_code.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/36/branches/fat_ntfs/source/menu/menu_code.cpp
+END
+menu_cftheme.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/36/branches/fat_ntfs/source/menu/menu_cftheme.cpp
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/87/tags/2.1/source/memory
+END
+objalloc.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/87/tags/2.1/source/memory/objalloc.hpp
+END
+mem2alloc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/87/tags/2.1/source/memory/mem2alloc.cpp
+END
+mem2alloc.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/87/tags/2.1/source/memory/mem2alloc.hpp
+END
+mem2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/87/tags/2.1/source/memory/mem2.cpp
+END
+smartalloc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/87/tags/2.1/source/memory/smartalloc.cpp
+END
+smartptr.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/87/tags/2.1/source/memory/smartptr.hpp
+END
+mem2.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/87/tags/2.1/source/memory/mem2.hpp
+END
+objalloc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/87/tags/2.1/source/memory/objalloc.cpp
+END

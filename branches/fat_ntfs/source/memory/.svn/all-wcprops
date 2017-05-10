@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/36/branches/fat_ntfs/source/memory
+END
+mem2alloc.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/36/branches/fat_ntfs/source/memory/mem2alloc.hpp
+END
+mem2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/36/branches/fat_ntfs/source/memory/mem2.cpp
+END
+smartalloc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/36/branches/fat_ntfs/source/memory/smartalloc.cpp
+END
+smartptr.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/36/branches/fat_ntfs/source/memory/smartptr.hpp
+END
+mem2.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/36/branches/fat_ntfs/source/memory/mem2.hpp
+END
+objalloc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/36/branches/fat_ntfs/source/memory/objalloc.cpp
+END
+objalloc.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/36/branches/fat_ntfs/source/memory/objalloc.hpp
+END
+mem2alloc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/36/branches/fat_ntfs/source/memory/mem2alloc.cpp
+END

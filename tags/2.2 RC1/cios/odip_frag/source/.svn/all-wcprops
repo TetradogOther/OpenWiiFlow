@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/302/tags/2.2%20RC1/cios/odip_frag/source
+END
+wrappers.s
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/302/tags/2.2%20RC1/cios/odip_frag/source/wrappers.s
+END
+usbstorage.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/302/tags/2.2%20RC1/cios/odip_frag/source/usbstorage.h
+END
+frag.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/302/tags/2.2%20RC1/cios/odip_frag/source/frag.h
+END
+module.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/302/tags/2.2%20RC1/cios/odip_frag/source/module.c
+END
+debug.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/302/tags/2.2%20RC1/cios/odip_frag/source/debug.c
+END
+sdhc.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/302/tags/2.2%20RC1/cios/odip_frag/source/sdhc.h
+END
+es_ioctlv.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/302/tags/2.2%20RC1/cios/odip_frag/source/es_ioctlv.c
+END
+ES_ioctlv_low.s
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/302/tags/2.2%20RC1/cios/odip_frag/source/ES_ioctlv_low.s
+END
+crt0.s
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/302/tags/2.2%20RC1/cios/odip_frag/source/crt0.s
+END
+usb.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/302/tags/2.2%20RC1/cios/odip_frag/source/usb.c
+END
+di.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/302/tags/2.2%20RC1/cios/odip_frag/source/di.c
+END
+usb.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/302/tags/2.2%20RC1/cios/odip_frag/source/usb.h
+END
+utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/302/tags/2.2%20RC1/cios/odip_frag/source/utils.c
+END
+wbfs.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/302/tags/2.2%20RC1/cios/odip_frag/source/wbfs.c
+END
+syscalls.s
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/302/tags/2.2%20RC1/cios/odip_frag/source/syscalls.s
+END
+usbstorage.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/302/tags/2.2%20RC1/cios/odip_frag/source/usbstorage.c
+END
+frag.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/302/tags/2.2%20RC1/cios/odip_frag/source/frag.c
+END
+sdhc.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/302/tags/2.2%20RC1/cios/odip_frag/source/sdhc.c
+END

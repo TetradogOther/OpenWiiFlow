@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/439/trunk/source/unzip
+END
+ioapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/429/trunk/source/unzip/ioapi.h
+END
+crypt.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/439/trunk/source/unzip/crypt.h
+END
+ZipFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/429/trunk/source/unzip/ZipFile.h
+END
+lz77.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/437/trunk/source/unzip/lz77.h
+END
+unzip.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/429/trunk/source/unzip/unzip.h
+END
+ash.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/435/trunk/source/unzip/ash.cpp
+END
+U8Archive.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/427/trunk/source/unzip/U8Archive.c
+END
+ash.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/429/trunk/source/unzip/ash.h
+END
+ioapi.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/429/trunk/source/unzip/ioapi.c
+END
+ZipFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/433/trunk/source/unzip/ZipFile.cpp
+END
+U8Archive.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/437/trunk/source/unzip/U8Archive.h
+END
+lz77.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/437/trunk/source/unzip/lz77.c
+END
+unzip.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/439/trunk/source/unzip/unzip.c
+END

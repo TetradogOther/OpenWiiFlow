@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/440/trunk/source/music
+END
+File.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/429/trunk/source/music/File.hpp
+END
+AifDecoder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/433/trunk/source/music/AifDecoder.cpp
+END
+Mp3Decoder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/429/trunk/source/music/Mp3Decoder.cpp
+END
+SoundHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/437/trunk/source/music/SoundHandler.cpp
+END
+WavDecoder.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/429/trunk/source/music/WavDecoder.hpp
+END
+Mp3Decoder.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/429/trunk/source/music/Mp3Decoder.hpp
+END
+AifDecoder.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/429/trunk/source/music/AifDecoder.hpp
+END
+BufferCircle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/429/trunk/source/music/BufferCircle.cpp
+END
+SoundHandler.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/433/trunk/source/music/SoundHandler.hpp
+END
+gui_sound.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/440/trunk/source/music/gui_sound.cpp
+END
+MusicPlayer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/438/trunk/source/music/MusicPlayer.cpp
+END
+BufferCircle.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/429/trunk/source/music/BufferCircle.hpp
+END
+gui_sound.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/434/trunk/source/music/gui_sound.h
+END
+OggDecoder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/432/trunk/source/music/OggDecoder.cpp
+END
+MusicPlayer.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/437/trunk/source/music/MusicPlayer.hpp
+END
+OggDecoder.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/432/trunk/source/music/OggDecoder.hpp
+END
+BNSDecoder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/437/trunk/source/music/BNSDecoder.cpp
+END
+BNSDecoder.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/429/trunk/source/music/BNSDecoder.hpp
+END
+SoundDecoder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/431/trunk/source/music/SoundDecoder.cpp
+END
+File.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/429/trunk/source/music/File.cpp
+END
+SoundDecoder.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/431/trunk/source/music/SoundDecoder.hpp
+END
+WavDecoder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/433/trunk/source/music/WavDecoder.cpp
+END

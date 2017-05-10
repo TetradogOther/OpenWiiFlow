@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/include/freetype/config
+END
+ftstdlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/include/freetype/config/ftstdlib.h
+END
+ftmodule.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/include/freetype/config/ftmodule.h
+END
+ftconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/include/freetype/config/ftconfig.h
+END
+ftheader.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/include/freetype/config/ftheader.h
+END
+ftoption.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/include/freetype/config/ftoption.h
+END

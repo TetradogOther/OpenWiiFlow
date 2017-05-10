@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/441/trunk/source/channel
+END
+channels.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/441/trunk/source/channel/channels.cpp
+END
+identify.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/440/trunk/source/channel/identify.c
+END
+nand_save.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/438/trunk/source/channel/nand_save.cpp
+END
+channel_launcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/432/trunk/source/channel/channel_launcher.h
+END
+channels.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/436/trunk/source/channel/channels.h
+END
+nand.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/441/trunk/source/channel/nand.cpp
+END
+identify.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/440/trunk/source/channel/identify.h
+END
+nand_save.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/438/trunk/source/channel/nand_save.hpp
+END
+banner.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/441/trunk/source/channel/banner.cpp
+END
+nand.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/440/trunk/source/channel/nand.hpp
+END
+MD5.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/429/trunk/source/channel/MD5.c
+END
+channel_launcher.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/435/trunk/source/channel/channel_launcher.cpp
+END
+banner.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/441/trunk/source/channel/banner.h
+END
+MD5.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/277/trunk/source/channel/MD5.h
+END

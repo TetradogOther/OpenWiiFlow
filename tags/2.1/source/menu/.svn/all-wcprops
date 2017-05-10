@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/87/tags/2.1/source/menu
+END
+menu.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/87/tags/2.1/source/menu/menu.cpp
+END
+menu_main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/87/tags/2.1/source/menu/menu_main.cpp
+END
+menu_system.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/87/tags/2.1/source/menu/menu_system.cpp
+END
+menu.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/87/tags/2.1/source/menu/menu.hpp
+END
+menu_categories.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/87/tags/2.1/source/menu/menu_categories.cpp
+END
+menu_config2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/87/tags/2.1/source/menu/menu_config2.cpp
+END
+menu_config3.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/87/tags/2.1/source/menu/menu_config3.cpp
+END
+menu_error.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/87/tags/2.1/source/menu/menu_error.cpp
+END
+menu_config4.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/87/tags/2.1/source/menu/menu_config4.cpp
+END
+menu_config5.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/87/tags/2.1/source/menu/menu_config5.cpp
+END
+menu_config_game.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/87/tags/2.1/source/menu/menu_config_game.cpp
+END
+menu_config_adv.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/87/tags/2.1/source/menu/menu_config_adv.cpp
+END
+menu_wbfs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/87/tags/2.1/source/menu/menu_wbfs.cpp
+END
+menu_config.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/87/tags/2.1/source/menu/menu_config.cpp
+END
+menu_download.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/87/tags/2.1/source/menu/menu_download.cpp
+END
+menu_game.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/87/tags/2.1/source/menu/menu_game.cpp
+END
+menu_code.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/87/tags/2.1/source/menu/menu_code.cpp
+END
+menu_configsnd.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/87/tags/2.1/source/menu/menu_configsnd.cpp
+END
+menu_about.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/87/tags/2.1/source/menu/menu_about.cpp
+END
+menu_cftheme.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/87/tags/2.1/source/menu/menu_cftheme.cpp
+END

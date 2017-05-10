@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/437/trunk/resources/app_booter/source
+END
+sync.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/397/trunk/resources/app_booter/source/sync.h
+END
+elfloader.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/397/trunk/resources/app_booter/source/elfloader.h
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/437/trunk/resources/app_booter/source/main.c
+END
+dolloader.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/405/trunk/resources/app_booter/source/dolloader.c
+END
+string.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/397/trunk/resources/app_booter/source/string.c
+END
+elf_abi.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/397/trunk/resources/app_booter/source/elf_abi.h
+END
+crt0.s
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/397/trunk/resources/app_booter/source/crt0.s
+END
+link.ld
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/437/trunk/resources/app_booter/source/link.ld
+END
+dolloader.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/397/trunk/resources/app_booter/source/dolloader.h
+END
+string.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/397/trunk/resources/app_booter/source/string.h
+END
+sync.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/397/trunk/resources/app_booter/source/sync.c
+END
+elfloader.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/397/trunk/resources/app_booter/source/elfloader.c
+END

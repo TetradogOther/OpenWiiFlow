@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libfat
+END
+file_allocation_table.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libfat/file_allocation_table.h
+END
+libfat.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libfat/libfat.c
+END
+filetime.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libfat/filetime.h
+END
+directory.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libfat/directory.c
+END
+bit_ops.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libfat/bit_ops.h
+END
+cache.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libfat/cache.h
+END
+directory.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libfat/directory.h
+END
+partition.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libfat/partition.c
+END
+fatdir.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libfat/fatdir.c
+END
+fatfile.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libfat/fatfile.c
+END
+fat_disc.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libfat/fat_disc.c
+END
+libfatversion.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libfat/libfatversion.h
+END
+partition.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libfat/partition.h
+END
+fatdir.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libfat/fatdir.h
+END
+fatfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libfat/fatfile.h
+END
+fat.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libfat/fat.h
+END
+mem_allocate.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libfat/mem_allocate.h
+END
+disc.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libfat/disc.h
+END
+file_allocation_table.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libfat/file_allocation_table.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libfat/Makefile
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libfat/common.h
+END
+fat_cache.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libfat/fat_cache.c
+END
+lock.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libfat/lock.h
+END
+filetime.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libfat/filetime.c
+END

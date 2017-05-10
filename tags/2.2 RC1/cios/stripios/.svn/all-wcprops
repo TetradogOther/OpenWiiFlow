@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/302/tags/2.2%20RC1/cios/stripios
+END
+stripios.exe
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/302/tags/2.2%20RC1/cios/stripios/stripios.exe
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/302/tags/2.2%20RC1/cios/stripios/Makefile
+END
+MakeIt.bat
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/302/tags/2.2%20RC1/cios/stripios/MakeIt.bat
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/302/tags/2.2%20RC1/cios/stripios/main.cpp
+END

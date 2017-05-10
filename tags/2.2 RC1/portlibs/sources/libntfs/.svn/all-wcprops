@@ -1,0 +1,485 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libntfs
+END
+ntfsdir.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libntfs/ntfsdir.c
+END
+ntfs.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libntfs/ntfs.c
+END
+efs.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libntfs/efs.c
+END
+ntfsdir.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libntfs/ntfsdir.h
+END
+ntfs.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libntfs/ntfs.h
+END
+support.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libntfs/support.h
+END
+logfile.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libntfs/logfile.c
+END
+acls.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libntfs/acls.c
+END
+efs.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libntfs/efs.h
+END
+collate.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libntfs/collate.c
+END
+debug.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libntfs/debug.c
+END
+endians.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libntfs/endians.h
+END
+logfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libntfs/logfile.h
+END
+acls.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libntfs/acls.h
+END
+gekko_io.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libntfs/gekko_io.c
+END
+collate.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libntfs/collate.h
+END
+debug.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libntfs/debug.h
+END
+gekko_io.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libntfs/gekko_io.h
+END
+inode.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libntfs/inode.c
+END
+reparse.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libntfs/reparse.c
+END
+inode.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libntfs/inode.h
+END
+param.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libntfs/param.h
+END
+reparse.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libntfs/reparse.h
+END
+ntfsfile.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libntfs/ntfsfile.c
+END
+ntfsfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libntfs/ntfsfile.h
+END
+unistr.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libntfs/unistr.c
+END
+mem_allocate.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libntfs/mem_allocate.h
+END
+lcnalloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libntfs/lcnalloc.c
+END
+unistr.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libntfs/unistr.h
+END
+misc.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libntfs/misc.c
+END
+lcnalloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libntfs/lcnalloc.h
+END
+misc.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libntfs/misc.h
+END
+mst.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libntfs/mst.c
+END
+bit_ops.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libntfs/bit_ops.h
+END
+attrlist.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libntfs/attrlist.c
+END
+index.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libntfs/index.c
+END
+security.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libntfs/security.c
+END
+volume.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libntfs/volume.c
+END
+mst.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libntfs/mst.h
+END
+types.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libntfs/types.h
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libntfs/config.h
+END
+attrlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libntfs/attrlist.h
+END
+index.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libntfs/index.h
+END
+volume.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libntfs/volume.h
+END
+security.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libntfs/security.h
+END
+bootsect.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libntfs/bootsect.c
+END
+cache2.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libntfs/cache2.c
+END
+attrib.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libntfs/attrib.c
+END
+mft.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libntfs/mft.c
+END
+bootsect.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libntfs/bootsect.h
+END
+attrib.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libntfs/attrib.h
+END
+cache2.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libntfs/cache2.h
+END
+mft.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libntfs/mft.h
+END
+compress.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libntfs/compress.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libntfs/Makefile
+END
+ntfstime.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libntfs/ntfstime.h
+END
+device.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libntfs/device.c
+END
+runlist.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libntfs/runlist.c
+END
+compress.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libntfs/compress.h
+END
+cache.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libntfs/cache.c
+END
+device.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libntfs/device.h
+END
+runlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libntfs/runlist.h
+END
+ntfsinternal.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libntfs/ntfsinternal.c
+END
+cache.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libntfs/cache.h
+END
+ntfsfile_frag.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libntfs/ntfsfile_frag.c
+END
+ntfsinternal.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libntfs/ntfsinternal.h
+END
+bitmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libntfs/bitmap.c
+END
+dir.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libntfs/dir.c
+END
+bitmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libntfs/bitmap.h
+END
+layout.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libntfs/layout.h
+END
+object_id.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libntfs/object_id.c
+END
+compat.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libntfs/compat.c
+END
+dir.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libntfs/dir.h
+END
+attrib_frag.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libntfs/attrib_frag.c
+END
+logging.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libntfs/logging.c
+END
+device_io.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libntfs/device_io.c
+END
+object_id.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libntfs/object_id.h
+END
+compat.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libntfs/compat.h
+END
+device_io.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libntfs/device_io.h
+END
+logging.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/sources/libntfs/logging.h
+END

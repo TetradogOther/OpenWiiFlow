@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/441/trunk/source/menu
+END
+menu_language.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/441/trunk/source/menu/menu_language.cpp
+END
+menu_cheat.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/441/trunk/source/menu/menu_cheat.cpp
+END
+menu_system.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/441/trunk/source/menu/menu_system.cpp
+END
+menu_categories.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/441/trunk/source/menu/menu_categories.cpp
+END
+menu_nandemu.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/441/trunk/source/menu/menu_nandemu.cpp
+END
+menu_config3.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/441/trunk/source/menu/menu_config3.cpp
+END
+menu_home.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/441/trunk/source/menu/menu_home.cpp
+END
+menu_config4.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/441/trunk/source/menu/menu_config4.cpp
+END
+menu_config_game.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/441/trunk/source/menu/menu_config_game.cpp
+END
+menu_plugin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/441/trunk/source/menu/menu_plugin.cpp
+END
+menu_explorer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/441/trunk/source/menu/menu_explorer.cpp
+END
+menu_wbfs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/441/trunk/source/menu/menu_wbfs.cpp
+END
+menu_boot.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/441/trunk/source/menu/menu_boot.cpp
+END
+menu_download.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/441/trunk/source/menu/menu_download.cpp
+END
+menu_game.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/441/trunk/source/menu/menu_game.cpp
+END
+menu_about.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/441/trunk/source/menu/menu_about.cpp
+END
+menu_configsnd.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/441/trunk/source/menu/menu_configsnd.cpp
+END
+menu_cftheme.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/441/trunk/source/menu/menu_cftheme.cpp
+END
+menu_paths.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/441/trunk/source/menu/menu_paths.cpp
+END
+menu.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/441/trunk/source/menu/menu.cpp
+END
+menu_main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/441/trunk/source/menu/menu_main.cpp
+END
+menu_gameinfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/441/trunk/source/menu/menu_gameinfo.cpp
+END
+menu_config_source.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/441/trunk/source/menu/menu_config_source.cpp
+END
+menu.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/441/trunk/source/menu/menu.hpp
+END
+menu_error.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/441/trunk/source/menu/menu_error.cpp
+END
+menu_ftp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/441/trunk/source/menu/menu_ftp.cpp
+END
+menu_config_adv.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/441/trunk/source/menu/menu_config_adv.cpp
+END
+menu_input.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/441/trunk/source/menu/menu_input.cpp
+END
+menu_source.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/441/trunk/source/menu/menu_source.cpp
+END
+menu_config_screen.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/441/trunk/source/menu/menu_config_screen.cpp
+END
+menu_config_coverbnr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/441/trunk/source/menu/menu_config_coverbnr.cpp
+END
+menu_config.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/441/trunk/source/menu/menu_config.cpp
+END
+menu_code.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/441/trunk/source/menu/menu_code.cpp
+END
+menu_wad.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/441/trunk/source/menu/menu_wad.cpp
+END

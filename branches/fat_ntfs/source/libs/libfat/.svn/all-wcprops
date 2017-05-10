@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/43/branches/fat_ntfs/source/libs/libfat
+END
+directory.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/36/branches/fat_ntfs/source/libs/libfat/directory.h
+END
+partition.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/36/branches/fat_ntfs/source/libs/libfat/partition.c
+END
+fatdir.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/36/branches/fat_ntfs/source/libs/libfat/fatdir.c
+END
+fatfile.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/36/branches/fat_ntfs/source/libs/libfat/fatfile.c
+END
+fat_disc.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/36/branches/fat_ntfs/source/libs/libfat/fat_disc.c
+END
+libfatversion.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/36/branches/fat_ntfs/source/libs/libfat/libfatversion.h
+END
+partition.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/36/branches/fat_ntfs/source/libs/libfat/partition.h
+END
+fatdir.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/36/branches/fat_ntfs/source/libs/libfat/fatdir.h
+END
+fatfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/36/branches/fat_ntfs/source/libs/libfat/fatfile.h
+END
+fat.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/36/branches/fat_ntfs/source/libs/libfat/fat.h
+END
+mem_allocate.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/43/branches/fat_ntfs/source/libs/libfat/mem_allocate.h
+END
+disc.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/36/branches/fat_ntfs/source/libs/libfat/disc.h
+END
+file_allocation_table.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/36/branches/fat_ntfs/source/libs/libfat/file_allocation_table.c
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/36/branches/fat_ntfs/source/libs/libfat/common.h
+END
+fat_cache.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/36/branches/fat_ntfs/source/libs/libfat/fat_cache.c
+END
+lock.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/36/branches/fat_ntfs/source/libs/libfat/lock.h
+END
+filetime.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/36/branches/fat_ntfs/source/libs/libfat/filetime.c
+END
+file_allocation_table.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/36/branches/fat_ntfs/source/libs/libfat/file_allocation_table.h
+END
+libfat.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/36/branches/fat_ntfs/source/libs/libfat/libfat.c
+END
+filetime.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/36/branches/fat_ntfs/source/libs/libfat/filetime.h
+END
+directory.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/36/branches/fat_ntfs/source/libs/libfat/directory.c
+END
+bit_ops.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/36/branches/fat_ntfs/source/libs/libfat/bit_ops.h
+END
+cache.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/36/branches/fat_ntfs/source/libs/libfat/cache.h
+END

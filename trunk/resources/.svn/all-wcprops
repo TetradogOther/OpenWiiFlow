@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/441/trunk/resources
+END
+optimize_all_images.bat
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/440/trunk/resources/optimize_all_images.bat
+END
+optimize_programs_links.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/440/trunk/resources/optimize_programs_links.txt
+END
+dvdskin(original).png
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/247/trunk/resources/dvdskin(original).png
+END

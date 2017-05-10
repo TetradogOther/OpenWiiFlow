@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/441/trunk/source/devicemounter
+END
+PartitionHandle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/441/trunk/source/devicemounter/PartitionHandle.cpp
+END
+usbthread.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/432/trunk/source/devicemounter/usbthread.h
+END
+sdhc.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/428/trunk/source/devicemounter/sdhc.h
+END
+PartitionHandle.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/440/trunk/source/devicemounter/PartitionHandle.h
+END
+usbstorage_libogc.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/440/trunk/source/devicemounter/usbstorage_libogc.c
+END
+DeviceHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/437/trunk/source/devicemounter/DeviceHandler.cpp
+END
+usbstorage.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/440/trunk/source/devicemounter/usbstorage.c
+END
+wiisd_libogc.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/440/trunk/source/devicemounter/wiisd_libogc.c
+END
+sdhc.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/440/trunk/source/devicemounter/sdhc.c
+END
+usbthread.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/435/trunk/source/devicemounter/usbthread.c
+END
+DeviceHandler.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/437/trunk/source/devicemounter/DeviceHandler.hpp
+END
+usbstorage_libogc.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/429/trunk/source/devicemounter/usbstorage_libogc.h
+END
+wiisd_libogc.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/437/trunk/source/devicemounter/wiisd_libogc.h
+END
+usbstorage.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/431/trunk/source/devicemounter/usbstorage.h
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/36/branches/fat_ntfs/source/music
+END
+oggplayer.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/36/branches/fat_ntfs/source/music/oggplayer.c
+END
+sound.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/36/branches/fat_ntfs/source/music/sound.hpp
+END
+oggplayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/36/branches/fat_ntfs/source/music/oggplayer.h
+END
+sound.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/36/branches/fat_ntfs/source/music/sound.cpp
+END

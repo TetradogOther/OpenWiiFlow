@@ -1,0 +1,251 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/include/freetype
+END
+ftcid.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/include/freetype/ftcid.h
+END
+ftmac.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/include/freetype/ftmac.h
+END
+ftoutln.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/include/freetype/ftoutln.h
+END
+ftcache.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/include/freetype/ftcache.h
+END
+ftwinfnt.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/include/freetype/ftwinfnt.h
+END
+ttunpat.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/include/freetype/ttunpat.h
+END
+ftsynth.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/include/freetype/ftsynth.h
+END
+fterrdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/include/freetype/fterrdef.h
+END
+ftmm.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/include/freetype/ftmm.h
+END
+ftgzip.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/include/freetype/ftgzip.h
+END
+ttnameid.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/include/freetype/ttnameid.h
+END
+fterrors.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/include/freetype/fterrors.h
+END
+ftlzw.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/include/freetype/ftlzw.h
+END
+ftglyph.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/include/freetype/ftglyph.h
+END
+ftsystem.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/include/freetype/ftsystem.h
+END
+ftbbox.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/include/freetype/ftbbox.h
+END
+ftbdf.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/include/freetype/ftbdf.h
+END
+ftxf86.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/include/freetype/ftxf86.h
+END
+ftadvanc.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/include/freetype/ftadvanc.h
+END
+ftsizes.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/include/freetype/ftsizes.h
+END
+ftlcdfil.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/include/freetype/ftlcdfil.h
+END
+fttrigon.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/include/freetype/fttrigon.h
+END
+fttypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/include/freetype/fttypes.h
+END
+ftstroke.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/include/freetype/ftstroke.h
+END
+ftchapters.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/include/freetype/ftchapters.h
+END
+ftmodapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/include/freetype/ftmodapi.h
+END
+ftlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/include/freetype/ftlist.h
+END
+tttags.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/include/freetype/tttags.h
+END
+ftbitmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/include/freetype/ftbitmap.h
+END
+ftincrem.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/include/freetype/ftincrem.h
+END
+ftrender.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/include/freetype/ftrender.h
+END
+ftgxval.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/include/freetype/ftgxval.h
+END
+ftimage.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/include/freetype/ftimage.h
+END
+t1tables.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/include/freetype/t1tables.h
+END
+ftotval.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/include/freetype/ftotval.h
+END
+ftsnames.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/include/freetype/ftsnames.h
+END
+ftpfr.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/include/freetype/ftpfr.h
+END
+tttables.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/include/freetype/tttables.h
+END
+ftmoderr.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/include/freetype/ftmoderr.h
+END
+freetype.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/include/freetype/freetype.h
+END
+ftgasp.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/302/tags/2.2%20RC1/portlibs/include/freetype/ftgasp.h
+END

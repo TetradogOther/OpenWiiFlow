@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/441/trunk/source/gui
+END
+fanart.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/436/trunk/source/gui/fanart.hpp
+END
+cursor.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/436/trunk/source/gui/cursor.hpp
+END
+FreeTypeGX.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/432/trunk/source/gui/FreeTypeGX.cpp
+END
+gui.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/440/trunk/source/gui/gui.cpp
+END
+text.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/440/trunk/source/gui/text.cpp
+END
+Timer.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/44/trunk/source/gui/Timer.h
+END
+fmt.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/441/trunk/source/gui/fmt.c
+END
+FreeTypeGX.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/432/trunk/source/gui/FreeTypeGX.h
+END
+WiiMovie.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/436/trunk/source/gui/WiiMovie.cpp
+END
+gui.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/436/trunk/source/gui/gui.hpp
+END
+text.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/440/trunk/source/gui/text.hpp
+END
+fmt.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/441/trunk/source/gui/fmt.h
+END
+gcvid.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/439/trunk/source/gui/gcvid.cpp
+END
+WiiMovie.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/436/trunk/source/gui/WiiMovie.hpp
+END
+texture.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/440/trunk/source/gui/texture.cpp
+END
+gcvid.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/434/trunk/source/gui/gcvid.h
+END
+GameTDB.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/435/trunk/source/gui/GameTDB.cpp
+END
+boxmesh.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/427/trunk/source/gui/boxmesh.cpp
+END
+texture.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/437/trunk/source/gui/texture.hpp
+END
+coverflow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/441/trunk/source/gui/coverflow.cpp
+END
+video.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/441/trunk/source/gui/video.cpp
+END
+vector.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/427/trunk/source/gui/vector.hpp
+END
+GameTDB.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/437/trunk/source/gui/GameTDB.hpp
+END
+pngu.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/441/trunk/source/gui/pngu.c
+END
+boxmesh.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/427/trunk/source/gui/boxmesh.hpp
+END
+coverflow.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/441/trunk/source/gui/coverflow.hpp
+END
+fanart.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/441/trunk/source/gui/fanart.cpp
+END
+video.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/441/trunk/source/gui/video.hpp
+END
+cursor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/436/trunk/source/gui/cursor.cpp
+END
+pngu.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/425/trunk/source/gui/pngu.h
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/302/tags/2.2%20RC1/source/unzip
+END
+mztools.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/302/tags/2.2%20RC1/source/unzip/mztools.h
+END
+miniunz.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/302/tags/2.2%20RC1/source/unzip/miniunz.h
+END
+ioapi.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/302/tags/2.2%20RC1/source/unzip/ioapi.c
+END
+inflate.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/302/tags/2.2%20RC1/source/unzip/inflate.c
+END
+unzip.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/302/tags/2.2%20RC1/source/unzip/unzip.c
+END
+ioapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/302/tags/2.2%20RC1/source/unzip/ioapi.h
+END
+crypt.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/302/tags/2.2%20RC1/source/unzip/crypt.h
+END
+mztools.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/302/tags/2.2%20RC1/source/unzip/mztools.c
+END
+inflate.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/302/tags/2.2%20RC1/source/unzip/inflate.h
+END
+miniunz.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/302/tags/2.2%20RC1/source/unzip/miniunz.c
+END
+unzip.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/302/tags/2.2%20RC1/source/unzip/unzip.h
+END

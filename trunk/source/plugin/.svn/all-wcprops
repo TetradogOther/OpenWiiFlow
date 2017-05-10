@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/441/trunk/source/plugin
+END
+crc32.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/434/trunk/source/plugin/crc32.c
+END
+plugin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/441/trunk/source/plugin/plugin.cpp
+END
+crc32.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/434/trunk/source/plugin/crc32.h
+END
+plugin.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/440/trunk/source/plugin/plugin.hpp
+END

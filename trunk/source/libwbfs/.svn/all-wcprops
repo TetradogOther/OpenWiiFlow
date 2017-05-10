@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/441/trunk/source/libwbfs
+END
+libwbfs_os.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/441/trunk/source/libwbfs/libwbfs_os.h
+END
+wiidisc.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/440/trunk/source/libwbfs/wiidisc.h
+END
+libwbfs.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/441/trunk/source/libwbfs/libwbfs.c
+END
+rijndael.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/441/trunk/source/libwbfs/rijndael.c
+END
+wiidisc.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/441/trunk/source/libwbfs/wiidisc.c
+END
+libwbfs.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/437/trunk/source/libwbfs/libwbfs.h
+END

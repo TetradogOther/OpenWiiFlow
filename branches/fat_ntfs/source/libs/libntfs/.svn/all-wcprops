@@ -1,0 +1,449 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/36/branches/fat_ntfs/source/libs/libntfs
+END
+runlist.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/36/branches/fat_ntfs/source/libs/libntfs/runlist.c
+END
+cache.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/36/branches/fat_ntfs/source/libs/libntfs/cache.c
+END
+runlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/36/branches/fat_ntfs/source/libs/libntfs/runlist.h
+END
+cache.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/36/branches/fat_ntfs/source/libs/libntfs/cache.h
+END
+ntfsfile_frag.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/36/branches/fat_ntfs/source/libs/libntfs/ntfsfile_frag.c
+END
+ntfsfile.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/36/branches/fat_ntfs/source/libs/libntfs/ntfsfile.c
+END
+dir.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/36/branches/fat_ntfs/source/libs/libntfs/dir.c
+END
+ntfsfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/36/branches/fat_ntfs/source/libs/libntfs/ntfsfile.h
+END
+dir.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/36/branches/fat_ntfs/source/libs/libntfs/dir.h
+END
+unistr.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/36/branches/fat_ntfs/source/libs/libntfs/unistr.c
+END
+attrib_frag.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/36/branches/fat_ntfs/source/libs/libntfs/attrib_frag.c
+END
+logging.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/36/branches/fat_ntfs/source/libs/libntfs/logging.c
+END
+device_io.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/36/branches/fat_ntfs/source/libs/libntfs/device_io.c
+END
+mem_allocate.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/36/branches/fat_ntfs/source/libs/libntfs/mem_allocate.h
+END
+lcnalloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/36/branches/fat_ntfs/source/libs/libntfs/lcnalloc.c
+END
+unistr.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/36/branches/fat_ntfs/source/libs/libntfs/unistr.h
+END
+device_io.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/36/branches/fat_ntfs/source/libs/libntfs/device_io.h
+END
+logging.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/36/branches/fat_ntfs/source/libs/libntfs/logging.h
+END
+misc.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/36/branches/fat_ntfs/source/libs/libntfs/misc.c
+END
+lcnalloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/36/branches/fat_ntfs/source/libs/libntfs/lcnalloc.h
+END
+misc.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/36/branches/fat_ntfs/source/libs/libntfs/misc.h
+END
+attrlist.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/36/branches/fat_ntfs/source/libs/libntfs/attrlist.c
+END
+security.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/36/branches/fat_ntfs/source/libs/libntfs/security.c
+END
+volume.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/36/branches/fat_ntfs/source/libs/libntfs/volume.c
+END
+ntfsdir.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/36/branches/fat_ntfs/source/libs/libntfs/ntfsdir.c
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/36/branches/fat_ntfs/source/libs/libntfs/config.h
+END
+attrlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/36/branches/fat_ntfs/source/libs/libntfs/attrlist.h
+END
+volume.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/36/branches/fat_ntfs/source/libs/libntfs/volume.h
+END
+security.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/36/branches/fat_ntfs/source/libs/libntfs/security.h
+END
+efs.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/36/branches/fat_ntfs/source/libs/libntfs/efs.c
+END
+ntfsdir.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/36/branches/fat_ntfs/source/libs/libntfs/ntfsdir.h
+END
+support.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/36/branches/fat_ntfs/source/libs/libntfs/support.h
+END
+logfile.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/36/branches/fat_ntfs/source/libs/libntfs/logfile.c
+END
+bootsect.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/36/branches/fat_ntfs/source/libs/libntfs/bootsect.c
+END
+efs.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/36/branches/fat_ntfs/source/libs/libntfs/efs.h
+END
+collate.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/36/branches/fat_ntfs/source/libs/libntfs/collate.c
+END
+attrib.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/36/branches/fat_ntfs/source/libs/libntfs/attrib.c
+END
+debug.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/36/branches/fat_ntfs/source/libs/libntfs/debug.c
+END
+endians.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/36/branches/fat_ntfs/source/libs/libntfs/endians.h
+END
+logfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/36/branches/fat_ntfs/source/libs/libntfs/logfile.h
+END
+bootsect.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/36/branches/fat_ntfs/source/libs/libntfs/bootsect.h
+END
+collate.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/36/branches/fat_ntfs/source/libs/libntfs/collate.h
+END
+attrib.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/36/branches/fat_ntfs/source/libs/libntfs/attrib.h
+END
+debug.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/36/branches/fat_ntfs/source/libs/libntfs/debug.h
+END
+compress.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/36/branches/fat_ntfs/source/libs/libntfs/compress.c
+END
+ntfstime.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/36/branches/fat_ntfs/source/libs/libntfs/ntfstime.h
+END
+inode.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/36/branches/fat_ntfs/source/libs/libntfs/inode.c
+END
+device.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/36/branches/fat_ntfs/source/libs/libntfs/device.c
+END
+compress.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/36/branches/fat_ntfs/source/libs/libntfs/compress.h
+END
+reparse.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/36/branches/fat_ntfs/source/libs/libntfs/reparse.c
+END
+inode.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/36/branches/fat_ntfs/source/libs/libntfs/inode.h
+END
+device.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/36/branches/fat_ntfs/source/libs/libntfs/device.h
+END
+reparse.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/36/branches/fat_ntfs/source/libs/libntfs/reparse.h
+END
+ntfsinternal.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/36/branches/fat_ntfs/source/libs/libntfs/ntfsinternal.c
+END
+bitmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/36/branches/fat_ntfs/source/libs/libntfs/bitmap.c
+END
+ntfsinternal.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/36/branches/fat_ntfs/source/libs/libntfs/ntfsinternal.h
+END
+bitmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/36/branches/fat_ntfs/source/libs/libntfs/bitmap.h
+END
+layout.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/36/branches/fat_ntfs/source/libs/libntfs/layout.h
+END
+compat.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/36/branches/fat_ntfs/source/libs/libntfs/compat.c
+END
+compat.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/36/branches/fat_ntfs/source/libs/libntfs/compat.h
+END
+mst.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/36/branches/fat_ntfs/source/libs/libntfs/mst.c
+END
+bit_ops.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/36/branches/fat_ntfs/source/libs/libntfs/bit_ops.h
+END
+index.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/36/branches/fat_ntfs/source/libs/libntfs/index.c
+END
+mst.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/36/branches/fat_ntfs/source/libs/libntfs/mst.h
+END
+types.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/36/branches/fat_ntfs/source/libs/libntfs/types.h
+END
+ntfs.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/36/branches/fat_ntfs/source/libs/libntfs/ntfs.c
+END
+index.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/36/branches/fat_ntfs/source/libs/libntfs/index.h
+END
+ntfs.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/36/branches/fat_ntfs/source/libs/libntfs/ntfs.h
+END
+acls.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/36/branches/fat_ntfs/source/libs/libntfs/acls.c
+END
+mft.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/36/branches/fat_ntfs/source/libs/libntfs/mft.c
+END
+gekko_io.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/36/branches/fat_ntfs/source/libs/libntfs/gekko_io.c
+END
+acls.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/36/branches/fat_ntfs/source/libs/libntfs/acls.h
+END
+mft.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/36/branches/fat_ntfs/source/libs/libntfs/mft.h
+END
+gekko_io.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/36/branches/fat_ntfs/source/libs/libntfs/gekko_io.h
+END

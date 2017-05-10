@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/43/branches/fat_ntfs/source/gui
+END
+boxmesh.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/36/branches/fat_ntfs/source/gui/boxmesh.cpp
+END
+texture.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/43/branches/fat_ntfs/source/gui/texture.hpp
+END
+coverflow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/40/branches/fat_ntfs/source/gui/coverflow.cpp
+END
+video.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/36/branches/fat_ntfs/source/gui/video.cpp
+END
+pngu.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/36/branches/fat_ntfs/source/gui/pngu.c
+END
+boxmesh.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/36/branches/fat_ntfs/source/gui/boxmesh.hpp
+END
+coverflow.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/40/branches/fat_ntfs/source/gui/coverflow.hpp
+END
+video.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/36/branches/fat_ntfs/source/gui/video.hpp
+END
+cursor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/36/branches/fat_ntfs/source/gui/cursor.cpp
+END
+pngu.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/36/branches/fat_ntfs/source/gui/pngu.h
+END
+Metaphrasis.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/36/branches/fat_ntfs/source/gui/Metaphrasis.cpp
+END
+FreeTypeGX.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/36/branches/fat_ntfs/source/gui/FreeTypeGX.cpp
+END
+cursor.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/36/branches/fat_ntfs/source/gui/cursor.hpp
+END
+gui.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/36/branches/fat_ntfs/source/gui/gui.cpp
+END
+text.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/36/branches/fat_ntfs/source/gui/text.cpp
+END
+Metaphrasis.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/36/branches/fat_ntfs/source/gui/Metaphrasis.h
+END
+Timer.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/43/branches/fat_ntfs/source/gui/Timer.h
+END
+FreeTypeGX.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/36/branches/fat_ntfs/source/gui/FreeTypeGX.h
+END
+WiiMovie.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/43/branches/fat_ntfs/source/gui/WiiMovie.cpp
+END
+gui.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/36/branches/fat_ntfs/source/gui/gui.hpp
+END
+png.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/36/branches/fat_ntfs/source/gui/png.h
+END
+text.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/36/branches/fat_ntfs/source/gui/text.hpp
+END
+gcvid.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/43/branches/fat_ntfs/source/gui/gcvid.cpp
+END
+WiiMovie.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/43/branches/fat_ntfs/source/gui/WiiMovie.hpp
+END
+pngconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/36/branches/fat_ntfs/source/gui/pngconf.h
+END
+texture.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/43/branches/fat_ntfs/source/gui/texture.cpp
+END
+gcvid.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/43/branches/fat_ntfs/source/gui/gcvid.h
+END

@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/46/tags/2.0/source/data
+END
+nopic.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/46/tags/2.0/source/data/nopic.c
+END
+loading.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/46/tags/2.0/source/data/loading.c
+END
+cffont.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/46/tags/2.0/source/data/cffont.c
+END
+background.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/46/tags/2.0/source/data/background.c
+END
+btnprev.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/46/tags/2.0/source/data/btnprev.c
+END
+butfont.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/46/tags/2.0/source/data/butfont.c
+END
+btnnext.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/46/tags/2.0/source/data/btnnext.c
+END
+hover.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/46/tags/2.0/source/data/hover.c
+END
+wait_hdd.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/46/tags/2.0/source/data/wait_hdd.c
+END
+flatloading.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/46/tags/2.0/source/data/flatloading.c
+END
+click.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/46/tags/2.0/source/data/click.c
+END
+error.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/46/tags/2.0/source/data/error.c
+END
+dvdskin_red.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/46/tags/2.0/source/data/dvdskin_red.c
+END
+dvdskin_black.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/46/tags/2.0/source/data/dvdskin_black.c
+END
+fbi.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/46/tags/2.0/source/data/fbi.c
+END
+dvdskin.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/46/tags/2.0/source/data/dvdskin.c
+END
+btnprevs.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/46/tags/2.0/source/data/btnprevs.c
+END
+btnnexts.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/46/tags/2.0/source/data/btnnexts.c
+END

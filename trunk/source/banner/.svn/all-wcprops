@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/437/trunk/source/banner
+END
+gx_addons.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/429/trunk/source/banner/gx_addons.c
+END
+Window.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/429/trunk/source/banner/Window.cpp
+END
+AnimatedBanner.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/436/trunk/source/banner/AnimatedBanner.cpp
+END
+Animator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/429/trunk/source/banner/Animator.cpp
+END
+gx_addons.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/429/trunk/source/banner/gx_addons.h
+END
+Picture.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/429/trunk/source/banner/Picture.cpp
+END
+Window.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/437/trunk/source/banner/Window.h
+END
+Layout.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/429/trunk/source/banner/Layout.cpp
+END
+AnimatedBanner.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/437/trunk/source/banner/AnimatedBanner.h
+END
+LanguageCode.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/429/trunk/source/banner/LanguageCode.c
+END
+WiiFont.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/436/trunk/source/banner/WiiFont.cpp
+END
+Animator.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/437/trunk/source/banner/Animator.h
+END
+Picture.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/429/trunk/source/banner/Picture.h
+END
+Layout.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/437/trunk/source/banner/Layout.h
+END
+LanguageCode.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/429/trunk/source/banner/LanguageCode.h
+END
+Pane.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/429/trunk/source/banner/Pane.cpp
+END
+WiiFont.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/437/trunk/source/banner/WiiFont.h
+END
+BannerTexture.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/429/trunk/source/banner/BannerTexture.cpp
+END
+Pane.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/437/trunk/source/banner/Pane.h
+END
+BannerTools.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/435/trunk/source/banner/BannerTools.h
+END
+BannerTexture.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/437/trunk/source/banner/BannerTexture.hpp
+END
+Textbox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/429/trunk/source/banner/Textbox.cpp
+END
+BannerWindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/435/trunk/source/banner/BannerWindow.cpp
+END
+QuadPane.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/429/trunk/source/banner/QuadPane.cpp
+END
+Material.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/429/trunk/source/banner/Material.cpp
+END
+BannerWindow.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/434/trunk/source/banner/BannerWindow.hpp
+END
+Textbox.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/437/trunk/source/banner/Textbox.h
+END
+QuadPane.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/437/trunk/source/banner/QuadPane.h
+END
+Material.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/437/trunk/source/banner/Material.h
+END

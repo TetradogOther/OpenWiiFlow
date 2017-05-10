@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/441/trunk/portlibs/lib
+END
+libfreetype.a
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/439/trunk/portlibs/lib/libfreetype.a
+END
+libpng.a
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/441/trunk/portlibs/lib/libpng.a
+END
+libwiiuse.a
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/430/trunk/portlibs/lib/libwiiuse.a
+END
+libcustomfat.a
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/440/trunk/portlibs/lib/libcustomfat.a
+END
+libcustomntfs.a
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/440/trunk/portlibs/lib/libcustomntfs.a
+END
+libjpeg.a
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/439/trunk/portlibs/lib/libjpeg.a
+END
+libcustomext2fs.a
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/440/trunk/portlibs/lib/libcustomext2fs.a
+END
+libvorbisidec.a
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/439/trunk/portlibs/lib/libvorbisidec.a
+END
+libz.a
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/439/trunk/portlibs/lib/libz.a
+END

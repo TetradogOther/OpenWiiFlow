@@ -1,0 +1,19 @@
+K 10
+svn:ignore
+V 84
+*.bat
+*.dol
+*.elf
+Compiles
+build
+dbg.bat
+startshell.bat
+trunk.dol
+trunk.elf
+wiiflow
+
+K 13
+svn:mergeinfo
+V 24
+/branches/fat_ntfs:34-43
+END

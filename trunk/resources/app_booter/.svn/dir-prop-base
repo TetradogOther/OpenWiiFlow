@@ -1,0 +1,9 @@
+K 10
+svn:ignore
+V 44
+app_booter.dol
+app_booter.elf
+build
+*.patch
+
+END

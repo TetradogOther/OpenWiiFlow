@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/302/tags/2.2%20RC1/cios/odip_frag/include
+END
+es.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/302/tags/2.2%20RC1/cios/odip_frag/include/es.h
+END
+ipc.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/302/tags/2.2%20RC1/cios/odip_frag/include/ipc.h
+END
+di.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/302/tags/2.2%20RC1/cios/odip_frag/include/di.h
+END
+syscalls.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/302/tags/2.2%20RC1/cios/odip_frag/include/syscalls.h
+END
+utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/302/tags/2.2%20RC1/cios/odip_frag/include/utils.h
+END
+wbfs.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/302/tags/2.2%20RC1/cios/odip_frag/include/wbfs.h
+END
+types.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/302/tags/2.2%20RC1/cios/odip_frag/include/types.h
+END
+module.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/302/tags/2.2%20RC1/cios/odip_frag/include/module.h
+END
+debug.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/302/tags/2.2%20RC1/cios/odip_frag/include/debug.h
+END
